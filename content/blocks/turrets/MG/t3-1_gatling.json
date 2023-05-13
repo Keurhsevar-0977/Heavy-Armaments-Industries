@@ -28,7 +28,7 @@
             "lightning": 2,
             "lightningLength": 8,
             "collidesAir": false,
-            "hitEffect": "hitYellowLaser",
+            "hitEffect": "hitBulletBig",
             "smokeEffect": "shootBigSmoke",
             "shootEffect": "producesmoke"
         },
