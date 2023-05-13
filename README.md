@@ -7,11 +7,7 @@ Merged from Heavy Armaments and Heavy Industries forming a mod that expands vani
 
 --- 
 
-## Download :
-[![Download](https://img.shields.io/github/v/release/Eschatologue/Heavy-Armaments-Industries?color=blue&include_prereleases&label=Latest%20version&logo=github&logoColor=white&style=for-the-badge)](https://github.com/Eschatologue/Heavy-Armaments-Industries/releases)
-[![Steam Workshop favourites](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-steam-workshop.jross.me%2F2089324405%2Fsubscriptions-text&style=for-the-badge)](https://steamcommunity.com/sharedfiles/filedetails/?id=2089324405)
 
----
 
 ## Troubleshooting & Issues
 1. Most problem can be simply fixed by completely removing the mod from your device and reinstalling it.
