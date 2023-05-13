@@ -47,7 +47,6 @@
             "amount": 85
         }
     ],
-    "drawer": "drawMixer",
     "category": "crafting",
     "research": "oil-extractor"
 }
