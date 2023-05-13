@@ -118,7 +118,7 @@
             "lightningLength": 10,
             "frontColor": "E8D174",
             "backColor": "F3E979",
-            "hitEffect": "hitYellowLaser",
+            "hitEffect": "hitBulletBig",
             "shootEffect": "instShoot",
             "smokeEffect": "hitBulletBig",
             "ammoMultiplier": 8,
